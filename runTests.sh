@@ -1,0 +1,5 @@
+
+lua QuestieTrackerUnitTests.lua
+lua QuestieJourneyUnitTests.lua
+lua QuestieCorrectionsUnitTests.lua
+lua QuestieTrackerUnitTests_CheckValue.lua

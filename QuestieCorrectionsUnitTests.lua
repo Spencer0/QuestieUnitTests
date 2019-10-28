@@ -15,6 +15,7 @@ function testQuestCorrections()
             correctionFound = true
         end
     end
+    
     luaunit.assertFalse(correctionFound)
       
 end
